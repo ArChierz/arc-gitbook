@@ -11,3 +11,5 @@
     * [Binary Exploitation](ctf/uoftctf2024/binary-exploitation.md)
   * [💎 Pearl CTF 2024](ctf/pearl-ctf-2024/README.md)
     * [Web Exploitation](ctf/pearl-ctf-2024/web-exploitation.md)
+  * [🏍️ JerseyCTF IV 2024](ctf/jerseyctf-iv-2024/README.md)
+    * [Web Exploitation](ctf/jerseyctf-iv-2024/web-exploitation.md)
